@@ -1,5 +1,5 @@
 {
-    "name": "yii2-widget-isloading",
+    "name": "tiagocardosos/yii2-widget-isloading",
     "description": "Simple widget show visual feedback when loading data or any action that would take time.",
     "require": {
         "bower-asset/is-loading": "*"
