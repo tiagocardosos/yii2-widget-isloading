@@ -1,0 +1,35 @@
+{
+    "name": "tiagocardosos/yii2-widget-isloading",
+    "description": "Simple widget show visual feedback when loading data or any action that would take time.",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2-widget-isloading",
+        "yii2",
+        "is-loading",
+        "widgets"
+    ],
+    "homepage": "https://github.com/tiagocardosos/yii2-widget-isloading",
+    "time": "2015-08-28",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiago Cardoso",
+            "email": "tiagocardosos@gmail.com",
+            "homepage": "https://github.com/tiagocardosos",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tiagocardosos/yii2-widget-isloading/issues",
+        "source": "https://github.com/tiagocardosos/yii2-widget-isloading"
+    },
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/is-loading": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tiagocardosos\\isloading\\": ""
+        }
+    }
+}
