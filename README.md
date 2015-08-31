@@ -23,21 +23,6 @@ or add
 
 to the require section of your `composer.json` file.
 
-Usage
------
-Add the rules as the following example
-
-
-### Installation
-
-
-Add to the ```require``` section of your `composer.json` file:
-
-```
-"tiagocardosos/yii2-widget-isloading": "*"
-```
-
-to the require section of your `composer.json` file.
 
 Usage
 -----
