@@ -7,8 +7,6 @@ use yii\web\AssetBundle;
 class IsLoadingAsset extends AssetBundle{
 	
     public $sourcePath = '@bower/is-loading';
-    public $css = [
-    ];
     public $js = [
         'jquery.isloading.min.js',
     ];

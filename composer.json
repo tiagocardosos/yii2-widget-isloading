@@ -1,7 +1,7 @@
 {
      	"name": "tiagocardosos/yii2-widget-isloading",
-    	"description": "Simple widget show visual feedback when loading data or any action that would take time.",
-        "keywords": ["yii", "isloading", "preload ajax", "ajaxStatus"],
+    	"description": "Simple widget ajaxStatus. Show visual feedback when loading data or any action that would take time.",
+        "keywords": ["yii", "isloading", "preloading", "ajaxStatus"],
         "type": "yii2-extension",
         "license": "MIT",
 		"support": {
